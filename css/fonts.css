@@ -3,33 +3,33 @@
   font-family: 'Helvetica Neue Light';
   font-style: normal;
   font-weight: normal;
-  src: local('Helvetica Neue Light'), url('/fonts/HelveticaNeueLight.woff') format('woff');
+  src: local('Helvetica Neue Light'), url('/quantum-threat/fonts/HelveticaNeueLight.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Helvetica Neue Bold';
   font-style: normal;
   font-weight: normal;
-  src: local('Helvetica Neue Bold'), url('/fonts/HelveticaNeueBold.woff') format('woff');
+  src: local('Helvetica Neue Bold'), url('/quantum-threat/fonts/HelveticaNeueBold.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Helvetica Neue Medium';
   font-style: normal;
   font-weight: normal;
-  src: local('Helvetica Neue Medium'), url('/fonts/HelveticaNeueMedium.woff') format('woff');
+  src: local('Helvetica Neue Medium'), url('/quantum-threat/fonts/HelveticaNeueMedium.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Helvetica Neue Italic';
   font-style: normal;
   font-weight: normal;
-  src: local('Helvetica Neue Italic'), url('/fonts/HelveticaNeueItalic.woff') format('woff');
+  src: local('Helvetica Neue Italic'), url('/quantum-threat/fonts/HelveticaNeueItalic.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Helvetica 95 Black';
   font-style: normal;
   font-weight: normal;
-  src: local('Helvetica 95 Black'), url('/fonts/HelveticaNeue-Black.woff') format('woff');
+  src: local('Helvetica 95 Black'), url('/quantum-threat/fonts/HelveticaNeue-Black.woff') format('woff');
 }
