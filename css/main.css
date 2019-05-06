@@ -1,0 +1,107 @@
+
+#navbar-section {
+  /*background-color: rgb(22,27,32); /*BLACK GREY*/
+  background-color: rgb(37,46,54); /*BLACK GREY*/
+}
+
+.nav-item {
+  padding: 0.5em;
+  font-family: 'Helvetica Neue Light';
+  font-size: 1.2em;
+  transition: 0.3s;
+  opacity: 0.9;
+}
+
+.nav-item:hover{
+  text-decoration: underline solid white;
+  opacity: 1;
+}
+
+#title-section {
+  background-color: rgb(171, 31, 45); /*MAROON*/
+}
+
+#title-section #main-title {
+  font-family: 'Helvetica Neue Bold';
+  font-weight: 700;
+  font-size: 3.9em;
+  letter-spacing: 0.001em;
+  color: whitesmoke;
+  
+  padding-top: 1em;
+  padding-bottom: 0.65em;
+}
+
+#title-section #subtitle {
+  font-family: 'Helvetica Neue Light';
+  font-size: 1.5em;
+  color: whitesmoke;
+  padding-bottom: 1em;
+}
+
+#explanation-section {
+  background-color: rgb(37,46,54); /*BLACK GREY*/
+}
+
+#explanation-section #title {
+  font-family: 'Helvetica Neue Medium';
+  font-size: 2em;
+  color: whitesmoke !important;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#explanation-section .red-text {
+  font-family: 'Helvetica Neue Light';
+  color: rgb(219, 61, 77);
+}
+
+#explanation-section blockquote {
+  font-family: 'Helvetica Neue Light';
+  color: whitesmoke;
+}
+
+#small-section {
+  height: 3em;
+  background-color: rgb(171, 31, 45);
+}
+
+#question-section {
+  font-family: 'Helvetica Neue Medium';
+  background-color: rgb(37,46,54);
+}
+
+#question-section #title {
+  font-family: 'Helvetica Neue Medium';
+  font-size: 2em;
+  color: whitesmoke;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#question-section .red-text {
+  font-family: 'Helvetica Neue Light';
+  color: rgb(219, 61, 77);
+}
+
+#question-section .header {
+  font-family: 'Helvetica Neue Bold';
+  font-weight: 700;
+  color: whitesmoke;
+}
+
+#question-section h2 {
+  font-family: 'Helvetica Neue Light';
+  color: whitesmoke;
+}
+
+#question-section #list-of-risks {
+  color: rgb(219, 61, 77);
+  font-size: 1.5em;
+}
+
+
+.filler-text {
+  color: rgb(74,92,108);
+  letter-spacing: -0.5px;
+}
